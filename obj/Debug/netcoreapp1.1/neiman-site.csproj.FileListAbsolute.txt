@@ -1,9 +1,0 @@
-/mnt/c/Users/iwata/Documents/GitHub/neiman-site/bin/Debug/netcoreapp1.1/neiman-site.deps.json
-/mnt/c/Users/iwata/Documents/GitHub/neiman-site/bin/Debug/netcoreapp1.1/neiman-site.runtimeconfig.json
-/mnt/c/Users/iwata/Documents/GitHub/neiman-site/bin/Debug/netcoreapp1.1/neiman-site.runtimeconfig.dev.json
-/mnt/c/Users/iwata/Documents/GitHub/neiman-site/bin/Debug/netcoreapp1.1/neiman-site.dll
-/mnt/c/Users/iwata/Documents/GitHub/neiman-site/bin/Debug/netcoreapp1.1/neiman-site.pdb
-/mnt/c/Users/iwata/Documents/GitHub/neiman-site/obj/Debug/netcoreapp1.1/UserSecretsAssemblyInfo.cs
-/mnt/c/Users/iwata/Documents/GitHub/neiman-site/obj/Debug/netcoreapp1.1/neiman-site.AssemblyInfo.cs
-/mnt/c/Users/iwata/Documents/GitHub/neiman-site/obj/Debug/netcoreapp1.1/neiman-site.dll
-/mnt/c/Users/iwata/Documents/GitHub/neiman-site/obj/Debug/netcoreapp1.1/neiman-site.pdb

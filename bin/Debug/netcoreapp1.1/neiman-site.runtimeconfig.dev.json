@@ -1,7 +1,7 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/home/tak/.nuget/packages"
+      "C:\\Users\\iwata\\.nuget\\packages"
     ]
   }
 }
