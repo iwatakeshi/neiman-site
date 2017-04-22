@@ -52,6 +52,8 @@ namespace neiman_site
             // Add application services.
             services.AddTransient<IEmailSender, AuthMessageSender>();
             services.AddTransient<ISmsSender, AuthMessageSender>();
+            // Add stripe: https://stripe.com/docs/checkout/aspnet
+            services.Configure<StripeSettings>(Configuration.GetSection("Stripe"));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -83,6 +85,9 @@ namespace neiman_site
                     name: "default",
                     template: "{controller=Home}/{action=Index}/{id?}");
             });
+
+            // Configure stripe: https://stripe.com/docs/checkout/aspnet
+            Stripe.StripeConfiguration.SetApiKey(Configuration.GetSection("Stripe")["SecretKey"]);
         }
     }
 }
