@@ -3,8 +3,8 @@ C:\Users\iwata\Documents\GitHub\neiman-site\Neiman\Neiman\bin\Debug\netcoreapp1.
 C:\Users\iwata\Documents\GitHub\neiman-site\Neiman\Neiman\bin\Debug\netcoreapp1.1\Neiman.runtimeconfig.dev.json
 C:\Users\iwata\Documents\GitHub\neiman-site\Neiman\Neiman\bin\Debug\netcoreapp1.1\Neiman.dll
 C:\Users\iwata\Documents\GitHub\neiman-site\Neiman\Neiman\bin\Debug\netcoreapp1.1\Neiman.pdb
-C:\Users\iwata\Documents\GitHub\neiman-site\Neiman\Neiman\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
 C:\Users\iwata\Documents\GitHub\neiman-site\Neiman\Neiman\obj\Debug\netcoreapp1.1\Neiman.AssemblyInfo.cs
 C:\Users\iwata\Documents\GitHub\neiman-site\Neiman\Neiman\obj\Debug\netcoreapp1.1\Neiman.dll
 C:\Users\iwata\Documents\GitHub\neiman-site\Neiman\Neiman\obj\Debug\netcoreapp1.1\Neiman.pdb
 C:\Users\iwata\Documents\GitHub\neiman-site\Neiman\Neiman\obj\Debug\netcoreapp1.1\Neiman.csprojResolveAssemblyReference.cache
+C:\Users\iwata\Documents\GitHub\neiman-site\Neiman\Neiman\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs

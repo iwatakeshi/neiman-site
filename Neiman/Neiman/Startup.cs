@@ -86,6 +86,9 @@ namespace Neiman
                     name: "default",
                     template: "{controller=Home}/{action=Index}/{id?}");
             });
+
+            // Seed the database
+            SeedData.Initialize(app.ApplicationServices);
         }
     }
 }
