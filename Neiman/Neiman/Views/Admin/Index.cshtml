@@ -1,0 +1,22 @@
+@{
+    ViewData["Title"] = "Administrator Actions";
+}
+
+<h2>Administrator</h2>
+<div class="container">
+    <div class="row">
+        @Html.ActionLink("Manage Products", "Index", "Products")
+    </div>
+    <div class="row">
+        @Html.ActionLink("Manage Categories", "Index", "Categories")
+    </div>
+    <div class="row">
+        @Html.ActionLink("Manage Customers", "Index", "Admin")
+    </div>
+    <div class="row">
+        @Html.ActionLink("Manage Purchase Orders", "Index", "Admin")
+    </div>
+    <div class="row">
+        @Html.ActionLink("Manage Invoices", "Index", "Admin")
+    </div>
+</div>

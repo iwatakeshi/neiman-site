@@ -89,6 +89,9 @@ namespace Neiman
 
             // Seed the database
             SeedData.Initialize(app.ApplicationServices);
+
+            //added TT along with RolesData class
+            RolesData.SeedRoles(app.ApplicationServices).Wait();
         }
     }
 }
